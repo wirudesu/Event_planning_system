@@ -1,0 +1,35 @@
+img.welcome-image {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+
+/* Resize error icon */
+.error.img {
+    width: 10px;
+    height: auto;
+}
+
+
+/* Style for h1 */
+h1 {
+    font-family: Arial, sans-serif;
+    color: #FF0000; /* Red color */
+}
+
+/* Style for p */
+p {
+    font-family: Arial, sans-serif;
+    color: #333333; /* Dark gray */
+}
+
+/* Style for the link */
+a {
+    color: #007BFF; /* Blue color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
